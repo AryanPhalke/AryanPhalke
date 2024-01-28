@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Aryan Phalke</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="[https://tenor.com/wGIz.gif](https://camo.githubusercontent.com/9d9c7a5b04482f2e3e2161cc3dd011d183dfd14fe18314076eacf709bf9c6c59/68747470733a2f2f696d67732e7365617263682e62726176652e636f6d2f44464d586277447a334d5655377664764d6358536a38386f46525f584f626b796a45744e6b30536e7861772f72733a6669743a3332303a3138303a312f673a63652f6148523063484d364c7939745a5752702f5953356e6158426f6553356a623230762f6257566b61574576656b3932516b74562f56555646556d524f6253396e6158426f2f6553356e6157592e676966)"
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/DFMXbwDz3MVU7vdvMcXSj88oFR_XObkyjEtNk0Snxaw/rs:fit:320:180:1/g:ce/aHR0cHM6Ly9tZWRp/YS5naXBoeS5jb20v/bWVkaWEvek92QktV/VUVFUmRObS9naXBo/eS5naWY.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanphalke&label=Profile%20views&color=0e75b6&style=flat" alt="aryanphalke" /> </p>
 
