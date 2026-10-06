@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanphalke&label=Profile%20views&color=0e75b6&style=flat" alt="aryanphalke" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 SDE 1 @Esko
 
 - 💬 Ask me about **Web Development**
 
