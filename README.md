@@ -3,7 +3,6 @@
 <h3 align="center">Software Engineer · Java, Spring Boot, React, TypeScript · Client-facing integrations</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanphalke&label=Profile%20views&color=0e75b6&style=flat" alt="aryanphalke" /> </p>
 
 - 🌱 **SDE 1 @ [Esko](https://www.esko.com/)**, working on **CAD on Cloud**, a CAD/PLM SaaS product (since Feb 2025)
 
