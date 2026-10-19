@@ -8,7 +8,7 @@
 
 - 🚀 Shipped **33+ features and fixes** across **10+ releases** in React/TypeScript and Java/Spring Boot
 
-- 🤝 I work directly with clients, including the **P&G** team on **ENOVIA 3DEXPERIENCE ↔ ArtiosCAD** integrations
+- 🤝 I have worked with **P&G** team on **ENOVIA 3DEXPERIENCE ↔ ArtiosCAD** integrations
 
 - 🏆 **Pat on the Back Award**, Esko (Nov 2025), for migrating the CAD UI from legacy to the S2 format on deadline
 
@@ -16,7 +16,7 @@
 
 - 🎓 B.Tech in Information Technology, VIIT Pune (GPA 8.52)
 
-- 💬 Ask me about **Full-Stack Web Development**, **Spring Boot**, **React** and **debugging tricky production issues**
+- 💬 Ask me about **Full-Stack Web Development**, **React** and **debugging tricky production issues**
 
 - 📫 How to reach me: **aryanphalke366p@gmail.com**
 
