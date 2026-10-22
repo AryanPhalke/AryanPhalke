@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aryan Phalke</h1>
-<h3 align="center">Software Engineer · Java, Spring Boot, React, TypeScript · Client-facing integrations</h3>
+<h3 align="center">Software Engineer · Java, Spring Boot, React, TypeScript </h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif"/>
 
 
