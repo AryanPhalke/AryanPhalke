@@ -35,6 +35,7 @@
 - 🔗 **`FileNameQueryEncoder`**: fixed uploads that failed silently on filenames containing `&`; now used in 4 upload paths
 - 🔄 **Live thumbnails** using WebSocket events and versioned cache-busting, so there's no more blank thumbnail until a refresh
 - 🌙 **Led the dark-theme migration to MUI v5** and published a shared component package used by two repos
+- 
 
 <h3 align="left">Projects:</h3>
 
